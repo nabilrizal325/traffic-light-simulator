@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Extra gap to add below the status bar / notch; tweak to move buttons further down -->
+    <dimen name="button_row_extra_top_margin">24dp</dimen>
+</resources>
